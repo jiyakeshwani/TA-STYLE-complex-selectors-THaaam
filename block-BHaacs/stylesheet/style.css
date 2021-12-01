@@ -201,11 +201,30 @@ h1 {
   margin-left: 0.9rem;
 }
 hr {
-  color: #d9e4fa;
+  color: #d4e0f9;
   width: 1350px;
-  margin: 0 auto;
+  margin: 3rem auto;
 }
 h2 {
   color: #344984;
-  font-size: 2rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  width: 60%;
+  line-height: 1.4;
+}
+.para-1 {
+  color: #7f91b8;
+  font-size: 1.3rem;
+  width: 80%;
+  line-height: 1.5;
+  font-weight: 600;
+  margin: 1rem 0;
+}
+.btn-1 {
+  color: white;
+  background-color: #59bfc2;
+  border: 0;
+  padding: 0.6rem 1.3rem;
+  font-size: 1rem;
+  font-weight: 500;
 }
